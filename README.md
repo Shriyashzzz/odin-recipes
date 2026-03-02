@@ -17,9 +17,9 @@ The Purpose of this project is to practice:
 ## Skills Demonstrated
 
 - HTML boilerplate structure
-- Anchor tags (<a>)
-- Lists (<ul>, <ol>)
-- Images (<img>)
+- Anchor tags (&lt;a&gt;)
+- Lists (&lt;ul&gt;, &lt;ol&gt;)
+- Images (&lt;img&gt;)
 - File structure and relative links
 
 ## Project Structure
